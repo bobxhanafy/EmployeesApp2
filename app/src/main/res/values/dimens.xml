@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="lapel_font">15sp</dimen>
+    <dimen name="text_font">20sp</dimen>
+
+</resources>

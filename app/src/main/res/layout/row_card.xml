@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/parent_layout"
+    >
+
+
+    <TextView
+        android:id="@+id/NameView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:text="TextView"
+        android:textSize="20sp"
+        android:padding="15dp"
+        android:textAllCaps="true"
+        android:inputType="textCapCharacters"
+       />
+
+    <TextView
+        android:id="@+id/RoleView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="bottom|end"
+        android:text="TextView"
+        android:textSize="15sp"
+        android:padding="5dp"/>
+</LinearLayout>

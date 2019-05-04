@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Employees App</string>
+    <!--LoginScreen -->
+    <string name="Email">Email</string>
+    <string name="Pass">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="DHAA">Don\'t have acount?Registern Now</string>
+    <string name="AHAA">Already have account!Login Now</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <!--HomeScreen && EmployeesScreen-->
+    <string name="Name">Name</string>
+    <string name="Role">Role</string>
+    <string name="BirthDay">BirthDay</string>
+    <string name="Salary">Salary</string>
+    <string name="Address">Address</string>
+    <string name="Gender">Gender</string>
+    <string name="btn_Cancel">Cancel</string>
+    <string name="btn_Save">Save</string>
+    <string name="test">test</string>
+
+</resources>
